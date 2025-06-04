@@ -1,20 +1,20 @@
-# QueryNest - ChaiCode
+# QueryNest
 
-Welcome to **QueryNest**, the AI-Powered Ticket Management System!  
-This project is part of the ChaiCode YouTube video series. QueryNest is a web application that uses AI to automatically categorize, prioritize, and assign support tickets to the most appropriate moderators.
+Welcome to **QueryNest**, the AI-Powered Query Management System!  
+QueryNest is a web application that uses AI to automatically categorize, prioritize, and assign support querys to the most appropriate moderators.
 
 ---
 
 ## 🎯 Project Overview
 
-**QueryNest** is a smart ticket management system that leverages AI to streamline support operations. It enhances ticket processing with automatic categorization, priority assignment, and intelligent routing to the right moderators.
+**QueryNest** is a smart query management system that leverages AI to streamline support operations. It enhances query processing with automatic categorization, priority assignment, and intelligent routing to the right moderators.
 
 ---
 
 ## 🚀 Features
 
-- **AI-Powered Ticket Processing**
-  - Automatic ticket categorization
+- **AI-Powered Query Processing**
+  - Automatic query categorization
   - Smart priority assignment
   - Skill-based moderator matching
   - AI-generated helpful notes for moderators
