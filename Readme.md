@@ -22,7 +22,6 @@ QueryNest is a web application that uses AI to automatically categorize, priorit
 - **Smart Moderator Assignment**
   - Matching based on moderator skills
   - Fallback to admin assignment
-  - Regex-based skill routing
 
 - **User Management**
   - Role-based access (User, Moderator, Admin)
